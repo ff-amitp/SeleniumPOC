@@ -25,10 +25,10 @@ public class MailUtility {
 
 	public static void SendMailForExecutionStarted() {
         
-		String mailList = "futuretemp20@gmail.com";
+		String mailList = "20@gmail.com";
 
-        final String from = "futuretemp20@gmail.com";
-        final String username = "futuretemp20@gmail.com";
+        final String from = "20@gmail.com";
+        final String username = "20@gmail.com";
         final String password = "";
 
         Properties props = new Properties();
@@ -66,7 +66,7 @@ public class MailUtility {
     public static void SendMail() {
         
         String browserVersion = "43.07";
-        String mailList = "futuretemp20@gmail.com";
+        String mailList = "20@gmail.com";
         String branch_name = "<Unavailable>";
 
         String passPercent = "78.03";
@@ -79,7 +79,7 @@ public class MailUtility {
 
         String testNGReportFileName = "D:\\Automation\\GitWorkspace\\eVerifile\\test-output" + File.separator + "emailable-report.html";
         String testNGExecutionReport = "E:\\FirstFuelAutomationFrameworkArtifacts\\TestNGOutputFolder" + File.separator + "Execution_Report.html";
-        final String from = "futuretemp20@gmail.com";
+        final String from = "20@gmail.com";
 
         final String username = "mailtestsourabh@gmail.com";
         final String password = "Allstate1$";
